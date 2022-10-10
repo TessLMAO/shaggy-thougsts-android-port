@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				80
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "shag smol left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				88
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "shag smol up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				81
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "shag smol right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				40,
+				80
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "shag smol idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				57
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "shag smol down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				81
+			],
+			"anim": "lol",
+			"fps": 24,
+			"name": "shag smol lol",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				79
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "shag miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				101
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "shag miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				82
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "shag miss right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				54
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "shag miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				57
+			],
+			"anim": "zoinks",
+			"fps": 24,
+			"name": "shag smol zoinks",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shag-smol",
+	"position": [
+		460,
+		510
+	],
+	"healthicon": "shag",
+	"flip_x": true,
+	"healthbar_colors": [
+		48,
+		48,
+		48
+	],
+	"camera_position": [
+		20,
+		40
+	],
+	"sing_duration": 9.99999999999999,
+	"scale": 2.2
+}
