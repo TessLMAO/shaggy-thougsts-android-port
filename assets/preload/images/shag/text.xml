@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="text.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="zoinks0000" x="22" y="22" width="796" height="509"/>
+	<SubTexture name="zoinks0001" x="22" y="22" width="796" height="509"/>
+	<SubTexture name="zoinks0002" x="835" y="22" width="796" height="509"/>
+	<SubTexture name="zoinks0003" x="835" y="22" width="796" height="509"/>
+</TextureAtlas>
