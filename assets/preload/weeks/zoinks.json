@@ -1,0 +1,32 @@
+{
+	"storyName": "no more trains",
+	"difficulties": "sad",
+	"hideFreeplay": false,
+	"weekBackground": "zoinks",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"zoinks",
+			"shag",
+			[
+				80,
+				80,
+				80
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "zoinks",
+	"hiddenUntilUnlocked": false
+}
